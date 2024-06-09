@@ -53,7 +53,7 @@ notas-cute/
 
 1. Clona el repositorio:
 
-   git clone https://github.com/tu-usuario/notas-cute.git
+   git clone https://github.com/ktperez/Mis-Notitas-Cute
 
 2. Abre el archivo `index.html` en tu navegador preferido.
 
