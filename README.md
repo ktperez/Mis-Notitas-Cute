@@ -39,6 +39,8 @@
 
 
 notas-cute/
+├── Imagenes/
+    5.gif
 ├── index.html
 ├── styles.css
 ├── script.js
